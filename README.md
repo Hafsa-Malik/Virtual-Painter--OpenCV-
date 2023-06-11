@@ -9,7 +9,7 @@ Virtual Painter is a python based interactive application that utilizes computer
 
 ## Installation
 
-1. Clone the repository `git clone https://github.com/your-username/Virtual-Painter--OpenCV.git` or directly download zip file.
+1. Clone the repository `git clone https://github.com/Hafsa-Malik/Virtual-Painter--OpenCV.git` or directly download zip file.
 
 2. Make sure you have OpenCV installed in main directory. If not cd to main directory and install `pip install opencv-python`
 
