@@ -24,6 +24,10 @@ Virtual Painter is a python based interactive application that utilizes computer
 
 4. Press the 'x' key to exit the application.
 
+![outout](https://github.com/Hafsa-Malik/Virtual-Painter--OpenCV-/assets/76608263/585ae337-013f-4ada-93a5-64d40f3fd067)
+
+
+
 
 ## Requirements
 
