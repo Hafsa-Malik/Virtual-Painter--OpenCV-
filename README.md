@@ -3,9 +3,9 @@ Virtual Painter is a python based interactive application that utilizes computer
 
 ## Features
 
-- Custom Marker Color Selection: The colorPicker module enables users to select their desired marker color by adjusting the HSV (Hue, Saturation, Value) values using intuitive trackbars.
+- **Custom Marker Color Selection:** The colorPicker module enables users to select their desired marker color by adjusting the HSV (Hue, Saturation, Value) values using intuitive trackbars.
 
-- Real-time Drawing: Once the marker color is selected, the virtualpainter module continuously analyzes the webcam feed. It tracks the movement of the marker and renders colored circles on the screen in real-time, providing an immersive virtual painting experience.
+- **Real-time Drawing:** Once the marker color is selected, the virtualpainter module continuously analyzes the webcam feed. It tracks the movement of the marker and renders colored circles on the screen in real-time, providing an immersive virtual painting experience.
 
 ## Installation
 
