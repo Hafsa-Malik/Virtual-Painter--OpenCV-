@@ -16,11 +16,11 @@ Virtual Painter is a python based interactive application that utilizes computer
 
 ## Usage
 
-1. Run the `colorPicker.py` script to select the marker color HSV values `python colorPicker.py`. Hold the marker infront of webcam and adjust trackbars until only the desired color is visible on the binary mask. Copy the HSV values and add them to `myColors` list as a new sub-list. Also add the corresponding BGR color which will be rendered on the canvas when these HSV values are detected in `myColorValues`.
+1. Run the `colorPicker.py` script to select the marker color HSV values: `python colorPicker.py`. Hold the marker infront of webcam and adjust trackbars until only the desired color is visible on the binary mask. Copy the HSV values and add them to `myColors` list as a new sub-list. Also add the corresponding BGR color which will be rendered on the canvas when these HSV values are detected in `myColorValues`.
 
-2. Run the `virtualpainter.py` script `python colorPicker.py`. The webcam feed will open, displaying the real-time video stream.
+2. Run the `virtualpainter.py` script: `python virtualPainter.py`. The webcam feed will open, displaying the real-time video stream.
 
-3. Hold the marker in front of the camera and start drawing. The application will track the marker's movement and render colored circles on the screen accordingly.
+3. Hold the marker in front of the camera and start drawing. The application will track the marker's movement and render colored circles onto the screen accordingly.
 
 4. Press the 'x' key to exit the application.
 
